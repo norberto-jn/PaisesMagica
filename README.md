@@ -34,15 +34,29 @@ A bandeira do México  não vai aparecer nas três primeiras telas mas vai apare
 
 
 
-- Tela inicial 
+- Tela inicial :
 
 !["Tela  inicial"](https://github.com/norberto-jn/PaisesMagica/blob/master/imagem-Telas/TelaInicial.png?raw=true)
 
 - Primeira tela :
 
-  !["Primeira Tela"](https://github.com/norberto-jn/PaisesMagica/blob/master/imagem-Telas/Tela-1.png?raw=true)
+!["Primeira Tela"](https://github.com/norberto-jn/PaisesMagica/blob/master/imagem-Telas/Tela-1.png?raw=true)
 
-  
+- Segunda tela :
+
+!["Segunda tela"](https://github.com/norberto-jn/PaisesMagica/blob/master/imagem-Telas/Tela-2.png?raw=true)
+
+- Terceira tela : 
+
+!["Terceira tela"](https://github.com/norberto-jn/PaisesMagica/blob/master/imagem-Telas/Tela-3.png?raw=true)
+
+
+
+- Quarta tela :
+
+!["Quarta tela"](https://github.com/norberto-jn/PaisesMagica/blob/master/imagem-Telas/Tela-4.png?raw=true)
+
+
 
 
 
