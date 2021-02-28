@@ -54,6 +54,33 @@ A bandeira do México  não vai aparecer nas três primeiras telas mas vai apare
 
 !["Quarta tela"](https://github.com/norberto-jn/PaisesMagica/blob/master/imagem-Telas/Tela-4.png?raw=true)
 
+Visualizando as quatro telas acima podemos afirma que o pais escolhido foi o México pois o numero binário 
+
+formado e 0001.
+
+veja no quadro :
+
+|     Tela      |   Apareceu   | Numero |
+| :-----------: | :----------: | :----: |
+| Primeira Tela | Não apareceu |   0    |
+| Segunda Tela  | Não apareceu |   0    |
+| Terceira Tela | Não apareceu |   0    |
+|  Quarta Tela  |   Apareceu   |   1    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
