@@ -32,3 +32,17 @@ exemplo :
 
 A bandeira do México  não vai aparecer nas três primeiras telas mas vai aparecer na ultima veja nas imagens a seguir:
 
+
+
+- Tela inicial 
+
+!["Tela  inicial"](https://github.com/norberto-jn/PaisesMagica/blob/master/imagem-Telas/TelaInicial.png?raw=true)
+
+- Primeira tela :
+
+  !["Primeira Tela"](https://github.com/norberto-jn/PaisesMagica/blob/master/imagem-Telas/Tela-1.png?raw=true)
+
+  
+
+
+
