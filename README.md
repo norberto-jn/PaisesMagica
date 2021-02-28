@@ -50,8 +50,6 @@ A bandeira do México  não vai aparecer nas três primeiras telas mas vai apare
 
 !["Terceira tela"](https://github.com/norberto-jn/PaisesMagica/blob/master/imagem-Telas/Tela-3.png?raw=true)
 
-
-
 - Quarta tela :
 
 !["Quarta tela"](https://github.com/norberto-jn/PaisesMagica/blob/master/imagem-Telas/Tela-4.png?raw=true)
